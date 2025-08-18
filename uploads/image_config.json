@@ -1,0 +1,49 @@
+{
+    "design": {
+        "Mine": {},
+        "QuoteChart": {
+            "(96, 61, 10, 21)": [
+                "H4sIAD0Eo2gC/2tgTs4rzS2o1EvOL0rVyy3NKclMLCpKrOSKL0pNzs8rLikqTS7hKmSAqOLKS4HIFjJ6M7QWMjkzJhUytxeyBBWyangzeot6c3kDuWxQxSkllQWpXIXsEUwMDAylhoUcnR3thZxBhVwa3swRjECxmkJuPz8/r/9AACa8GUoKeZI6ncqAGv7TCxzb/QeIsEq9efkv2e0HEAEZaFLfvvwvj/vpq/MdiIAMIBdNqrvs14oZv4EIyEBTAAEQWYh6TPPhsljBqCzxsiSBQt6SQr4kPQBvjbenFgMAAA==",
+                "H4sIAD0Eo2gC/2tgTs4rzS2o1EvOL0rVyy3NKclMLCpKrOSKL0pNzs8rLikqTS7hKmSAqOLKS4HIFjJ6M7QWMjkzJhUytxeyBBWyangzeot6c3kDuWxQxSkllQWpXIXsEUwMDAylhoUcnR3thZxBhVwa3swRjECxmkJuPz8/r/9AACa8GUoKeZI6ncqAGv7TC6y4XAlEo7JUlP3y893LL3chgkB2y0GniSfCILJABpALFITrgijI2iIFRGhSEAA0qmyXLhDBzUQDhx4sBCKqJIZC3pJCviQ9AAptCygWAwAA",
+                "H4sIAD0Eo2gC/2tgTs4rzS2o1EvOL0rVyy3NKclMLCpKrOSKL0pNzs8rLikqTS7hKmSAqOLKS4HIFjJ6M7QWMjkzJhUytxeyBBWyangzeot6c3kDuWxQxSkllQWpXIXsEUwMDAylhoUcnR3thZxBhVwa3swRjECxmkJuPz8/r/9AACa8GUoKeZI6ncqAGv7TC6y4XAlEo7JUlP3y893LL3chgkB2y0GniSfCILJABpALFITrgijI2iIFRGhSEAA0qmyXLhDBzUQDhx4sBCKqJIZC3pJCviQ9AAptCygWAwAA"
+            ],
+            "(322, 23, 25, 19)": [
+                "H4sIAD0Eo2gC/12U/U+bVRTHz1PGxkA6yBJlQoHS0lIopaXQynhZ2AZuVIlBHdSRzLUQXOKAByFKMuNMNIwpczgd04W5+bKgU6fxZRr9Rf+ajb6/Pn27V8+5T+eIzTdPbu+953POuffcc77EP7t0dn7Z5p9bmLadXXp18czphYXTy+WnFqb9c7OvLS4s+RfLZVB3lc9Oqauy5IF3Zc0RySeXrMi7xuTSFo/k2e854MG/u4ubpxaX56fL5T0TGgBYcshlqxdW5L1jcnmLp2RCwrlzcsXo6OjIP/gTHw8syo/5Vg+vl+KiNQpPK9AWAUMIjGFwxmGcweEU/VVli4IjBoYwraJMYTCHoTkMLagQmILQJKQPgDkC7jg0h2gzyhqBowqZG3GDQD2fh9Ec2ZoEAbHDCthj0BomWXBPkIQoXLJHyapJTBrVedWXmHHFybAYTwSGFPAWoCdOnPYIBdYZBWuYULgTQyVUkSM1B0pdEe2LqeopZd/J9J6+uGQOS5bILne8cjxd/Uq2aiZbNpSQbBGimUPQn4SOKDRsw8FkMQbKKCgZghXH4zXnCrUXuKon32HVvkylV6l5i+2crPIpGjumjN4DFFJDAHqTxFHzdcVLR9I1bz7iFA1XSOq4blXoItdd5NqxZPGUGgTNEgFTiFLGyeMZ7Uz+f5xHBDR/n9ev8YZLXH+ZN61z3fkchVEfAJ1AqfdiFlkbgtX+TNFceNe9x+vR/BJv+IDr13nTh9zwETd+zJs3uPkT3vIpp6uvE1Hh+agotVqMwX3edP1O12h7pWhruka2luu8dZO1fcatN7nlKlagQrTGADRhVBHimETJNQfLBqL6NUaurz50fZ1bNnnrDY7m7be47QvW8SW332aOLa6bV6A9ShCMCm8Qjx3rAavLGcV607QEnziTRu+tm7ztBrPe4u2fC9uvVHPm/IZ13WHd37HWy9m9blFOjYKDmszDS3l4OQ9zDLw5GFV2n1B0b+fRu/0279zinV/zrju8+1vm+p65f+BP/ch6fmK2jZx2OCL9VwaNYnAyT7RTeZgpwGSOaN5cyWROt0YBuO4yt7A9+DPr/YX1/cr677GOm4WK8TQVvFrn5oel1Z2ArgR93QnoS8KhJBxNwbG0NKY8/kbOuVXo/40N/M4O/cEG/+TIMV1hpX7hfYaRhGsYR2XBlYD2ONhQYmCNgSVK77qJXrf2WMxxLXfkLzb0N+u9W9C9ntE8m4bnMnAiS1mgJrLgzcJEDnwFekHOBKE6EiSboOG1ChSqcjDm3MgO3isc8CYko6gZ7Egd1Hmkzhjl6IpRssNJeoODCvSkwJ4gIa09Bs0CVWwXoarh6P5n4hqTgOMXHwjSsEtgQepDdHe126DbBkccRjLgyYIzCY4k2ON0biNZalkqCqVXmTuK2SIGBtFP6hH1AOoe0PlgggMp6EuBI0EojPCFAvUoJDQG6dslbkSt5GIDjBIN+fgA67ah7j7U3pcrF2Wtz/YvllYy4DEGAAA=",
+                "H4sIAD0Eo2gC/12U/U+bVRTHz1PGxkA6yBJlQoHS0lIopaXQynhZ2AZuVIlBHdSRzLUQXOKAByFKMuNMNIwpczgd04W5+bKgU6fxZRr9Rf+ajb6/Pn27V8+5T+eIzTdPbu+953POuffcc77EP7t0dn7Z5p9bmLadXXp18czphYXTy+WnFqb9c7OvLS4s+RfLZVB3lc9Oqauy5IF3Zc0RySeXrMi7xuTSFo/k2e854MG/u4ubpxaX56fL5T0TGgBYcshlqxdW5L1jcnmLp2RCwrlzcsXo6OjIP/gTHw8syo/5Vg+vl+KiNQpPK9AWAUMIjGFwxmGcweEU/VVli4IjBoYwraJMYTCHoTkMLagQmILQJKQPgDkC7jg0h2gzyhqBowqZG3GDQD2fh9Ec2ZoEAbHDCthj0BomWXBPkIQoXLJHyapJTBrVedWXmHHFybAYTwSGFPAWoCdOnPYIBdYZBWuYULgTQyVUkSM1B0pdEe2LqeopZd/J9J6+uGQOS5bILne8cjxd/Uq2aiZbNpSQbBGimUPQn4SOKDRsw8FkMQbKKCgZghXH4zXnCrUXuKon32HVvkylV6l5i+2crPIpGjumjN4DFFJDAHqTxFHzdcVLR9I1bz7iFA1XSOq4blXoItdd5NqxZPGUGgTNEgFTiFLGyeMZ7Uz+f5xHBDR/n9ev8YZLXH+ZN61z3fkchVEfAJ1AqfdiFlkbgtX+TNFceNe9x+vR/BJv+IDr13nTh9zwETd+zJs3uPkT3vIpp6uvE1Hh+agotVqMwX3edP1O12h7pWhruka2luu8dZO1fcatN7nlKlagQrTGADRhVBHimETJNQfLBqL6NUaurz50fZ1bNnnrDY7m7be47QvW8SW332aOLa6bV6A9ShCMCm8Qjx3rAavLGcV607QEnziTRu+tm7ztBrPe4u2fC9uvVHPm/IZ13WHd37HWy9m9blFOjYKDmszDS3l4OQ9zDLw5GFV2n1B0b+fRu/0279zinV/zrju8+1vm+p65f+BP/ch6fmK2jZx2OCL9VwaNYnAyT7RTeZgpwGSOaN5cyWROt0YBuO4yt7A9+DPr/YX1/cr677GOm4WK8TQVvFrn5oel1Z2ArgR93QnoS8KhJBxNwbG0NKY8/kbOuVXo/40N/M4O/cEG/+TIMV1hpX7hfYaRhGsYR2XBlYD2ONhQYmCNgSVK77qJXrf2WMxxLXfkLzb0N+u9W9C9ntE8m4bnMnAiS1mgJrLgzcJEDnwFekHOBKE6EiSboOG1ChSqcjDm3MgO3isc8CYko6gZ7Egd1Hmkzhjl6IpRssNJeoODCvSkwJ4gIa09Bs0CVWwXoarh6P5n4hqTgOMXHwjSsEtgQepDdHe126DbBkccRjLgyYIzCY4k2ON0biNZalkqCqVXmTuK2SIGBtFP6hH1AOoe0PlgggMp6EuBI0EojPCFAvUoJDQG6dslbkSt5GIDjBIN+fgA67ah7j7U3pcrF2Wtz/YvllYy4DEGAAA=",
+                "H4sIAD0Eo2gC/z1Ua2wUVRQ+23aRLpXEaGJI3/tqC9ttt0sLSKu0YLFdsxgeUkqbSkvFmr6mbk2qYpBI2gIxEQgpmmCkQRtUDMSIGv0DkZg0xKA/fCTGxF9ld3beu7OzM1s9587i5GRy77nnfOf13XuicGh8emxyJjg0MTUcHJsejY0cmZo6MuMamBoemhh/LTY1PRRzcWBbucaP2qecIwKnuIKdjkGucJYr2ss5ayOOyOORDRHcrskbH43NTA67uEd6CgBgOsStnZ+b5Yr3cq7aSGGPA3Vvceui0Wj3v/ixXwRiXMngfMf7TjwMSLBbh00ieJLgFSCswMEcdKRoa0tQgpAMHoFOUfwC1AjgE6AWJQl+HtxMqhNQI8IWBXxJMkYJiLBLJ3cvGjCofSZEs+TrZwgI26lDowwbBZI6tOFJEAqPGiXycjOl19bbsZimRSHHfD4iPKvDIQu2KYRTL1JiTRIEBIJCS0yVoPI4rgA/EFOWfzEFafX+79bIca0kIBTUCq296rVbRjy5+s9KbmEpU71LcmxC8CS0adAgQWUcntLyOVBFvNPHz5zW7ixnO3qldRv5thelz7825hb0AxPa0q0sN59+slUqbRNOf5i++7NZ3i6CD6MnKKXKBGzXCMeut0Xx9qR//cPytwtQlaBAFfHQ8+JHX2R++8saejNdhJ3Eusidf++yjoD5LlUytDoR/EkqGZVdmZHz5uXPdCiP0ynm2ZYq8POT72qLN426boXGjWho6U74dwp//m1RGhUJKGdQ9lxqWNUe/vU57ewHaShjgTBEK+XcHBW37pcLsMmdGZovelUl1gd5UV6l0dvGGNeGstni5Q9PKp/cyNBpRdwukIJWs5miTWsKmhWqvSrRvEf86b4FHTqhocaNoUWy8TPK+Xhvu3D3nlm9nQ3Xlio+T5Vq1gQiCTmeupA6eS4N9RJtK1ljse3IB2RXWEK+Of2J8x/rsxfTeQ7TONgt8An5P5GZb35B/OHHbH2naBdLOCh9JvSa8JIJEzk4lHXs0RvHMtduWwNnDNihwlYFwjLRBhteK9rd8B3Qrn9njJ5Qi3wPaVDFFodNQhsw4ZgFfVlEc/Znd8+aS8urLy/mnKQxUAk9bLEv0xIzFm/nTi5mn+hS8zyveUitZhU2q/TfotK8ntFgV2ptNN1+3Lj4rfXGp1ZxP+FDvwkjua4z1o17q+NXchtGTccrOThGhZAcRDGgRYV6BYIobBGQoU7Ce72mRghF5XNX9AtXM55uGZrkvnf0L+9Y/WeNx/oyDnTEKlB6DMoWcx606AaFVYJqUEmCDA3H6hYKfYJ7hzR/Sb/5fXbpK+P6N9nnBtTiBpFepAZ6eRxNMtXYItPt7tToDrbrsC0FjSoJotXL4CMoJIDDkyypF159W1u4mglH5UKbgXUMDV8J3CJDcHalcbogIQW6MxAxIKxBSINGhfrWbdCTZdPJZpSbPWj/k7mOLTzsPUEalz6AsgfUHyzw6RQxOaQSFGa436I3ChGQn/jfzCZiMzn/AEqEhvh4F8riULYCpSvcozFu/WDwP3nD3NQxBgAA"
+            ]
+        },
+        "Trade": {}
+    },
+    "info": {
+        "Mine": {
+            "pics": [
+                ".\\imgs\\Mine\\Snipaste_2025-07-31_16-00-47.png"
+            ],
+            "rois": [],
+            "ignores": []
+        },
+        "QuoteChart": {
+            "pics": [
+                ".\\imgs\\QuoteChart\\Snipaste_2025-07-31_11-55-48.png",
+                ".\\imgs\\QuoteChart\\Snipaste_2025-07-31_11-59-47.png",
+                ".\\imgs\\QuoteChart\\Snipaste_2025-07-31_12-01-31.png"
+            ],
+            "rois": [
+                "(96, 61, 10, 21)",
+                "(322, 23, 25, 19)"
+            ],
+            "ignores": [
+                "(9, 156, 355, 326)",
+                "(8, 539, 355, 59)"
+            ]
+        },
+        "Trade": {
+            "pics": [
+                ".\\imgs\\Trade\\Snipaste_2025-07-31_16-02-17.png"
+            ],
+            "rois": [],
+            "ignores": []
+        }
+    }
+}
